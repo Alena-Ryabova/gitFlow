@@ -2,7 +2,7 @@ def words_up(words):
     """
     Функция принимает на вход строку и возвращает ее со всеми заглавными буквами
     """
-    print(words.upper())
+    print(f"И вот результат - {words.upper()}")
 
 
 def first_word_up(word):
