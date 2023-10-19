@@ -1,2 +1,5 @@
-def words_up(words):
+def words_upp(words):
+    """
+    Функция принимает на вход строку и возвращает ее со всеми заглавными буквами
+    """
     print(words.upper())
